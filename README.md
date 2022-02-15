@@ -4,8 +4,6 @@
 
 - 2022 Goals: Learn Blender, Go, writing some post, and more.
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
