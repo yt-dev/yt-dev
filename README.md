@@ -2,7 +2,7 @@
 
 ## I am a front-end developer. Hmm... maybe 🤔
 
-- 2022 Goals: Learn Blender, Go, writing some post, and more.
+- 2022 Goals: Learn Blender, Go, write some posts, maybe more.
 
 ### Languages and Tools:
 
