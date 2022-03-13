@@ -6,7 +6,7 @@
 - Homepage: [kuon.top](https://kuon.top)
 - 2022 Goals: Learn Blender, Go, write some posts, maybe more.
 
-<a href="https://app.daily.dev/yt_dev"><img src="https://raw.githubusercontent.com/yt-dev/yt-dev/1dff9c382c0cdd3aa1a87bd0543db94dcc4b9676/devcard.svg" width="200" alt="YT Huang's Dev Card"/></a>
+<a href="https://app.daily.dev/yt_dev"><img src="https://raw.githubusercontent.com/yt-dev/yt-dev/1b859979528323eb9de0ab5495296f56e4c5c5a3/devcard.svg" width="200" alt="YT Huang's Dev Card"/></a>
 
 ### Languages and Tools:
 
