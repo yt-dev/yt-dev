@@ -4,7 +4,7 @@
 
 - Developer working from home.
 - Homepage: [kuon.top](https://kuon.top)
-- 2022 Goals: Learn Blender, Go, write some posts, maybe more.
+- Yearly Goals: Learn Blender, Go, write some posts, maybe more.
 
 ### Languages and Tools:
 
